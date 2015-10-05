@@ -49,7 +49,7 @@
         + 164 Encouragements au Livre
         + 165 Sources
     + 17 Histoire et Evolution: Phases des sciences bibliologiques
-+ 2. Le Livre et le Docum
++ 2. Le Livre et le Document
     + 21 Le Livre en général
         + 211 Notion et définition du Livre et du Document
             + 211.1 Définition générale
@@ -657,7 +657,7 @@
             + 425.2 Organisation mondiale en général
                 + 425.21 Principe
                 + 425.22 Instincts de l’organisation mondiale. La cité mondiale
-+ 5. Synthèse bibliologi
++ 5. Synthèse bibliologique
     + 51 Les lois bibliologiques
         + 511 Des lois en général
         + 512 Les lois universelles et celles des diverses sciences prolongées de la bibliologie
@@ -676,4 +676,8 @@
         + 531 Phase du développement
         + 532 Le livre universel
         + 533 La Classification, clé de voûte de la pensée et du document
-        + 534 La structure des connaissances1
+        + 534 La structure des connaissances
+
+- Table des illustrations, tableaux et modèles
+- Index Alphabétique
+- Table Systematique des Matières
