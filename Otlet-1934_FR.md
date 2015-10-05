@@ -1,6 +1,6 @@
 # TRAITÉ DE DOCUMENTATION
 
-![image](./pics_small/pg_000_title.png)
+![image](./media/pg_000_title.png)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Les Livres et les Documents. — La Lecture, la Consultation et la Documentation
 
 [002 (02)]
 
-![elsevier logo](./pics_small/elsevier_logo.png)
+![elsevier logo](./media/elsevier_logo.png)
 
 EDITIONES MUNDANEUM PALAIS MONDIAL BRUXELLES
 
@@ -1302,17 +1302,17 @@ C’est la parole extérieure, la vérité, la phonation, qui a fini par modeler
 
 6.  La scierice bibliologique dans sa première phase a été purement descriptive ; Ja Bibliographie proprement dite. Dans une deuxième elle a tendu à devenir théorique : Bibliologie. Voici qu’elle tend à devenir technique, c’est-à dire à influencer la confection du livre par des règles déduites de la théorie (Bibliotech nie). Cessant d’être la servante de livres tout fait«, et insuffisamment bien faits, elle revendique une action sur les livres à faire. Elle prescrit à la fois les meilleures formes (abstraction faite du contenu) et l’opportunité d écrire certains ouvrages selon les besoins scientifiques reconnus, ce qui est aujourd’hui livré entièrement à l’ar bitraire des éditeurs et souvent des auteurs. Cette fonction, les sciences du livre ont à la partager avec l’organisation scientifique de chaque science.
 
-![image](./pics_small/pg039_Fig1_livres_periodiques.png)
+![image](./media/pg039_Fig1_livres_periodiques.png)
 
 ------------------------------------------------------------------------
 
-![image](./pics_small/pg040_fig2_representation_du_monde.png)
+![image](./media/pg040_fig2_representation_du_monde.png)
 
 Le livre et la representation du monde
 
 ------------------------------------------------------------------------
 
-![image](./pics_small/pg041_univers.png)
+![image](./media/pg041_univers.png)
 
 L’ univers, l’intelligence, la science, le livre
 
@@ -1350,7 +1350,7 @@ A B C
 
 1
 
-![image](./pics_small/pg042_documentation.png)
+![image](./media/pg042_documentation.png)
 
 ------------------------------------------------------------------------
 
@@ -8374,7 +8374,7 @@ a)  Nous avons proposé, dès 1906, avec Robert Gold-schmidt (I), de donner au l
 
 ------------------------------------------------------------------------
 
-![image](./pics_small/pg205_8figures.png)
+![image](./media/pg205_8figures.png)
 
 I n. L — Projection sur la table de travail
 
@@ -15157,7 +15157,7 @@ Les catalogues universels sont des préfigurations des collections universelles.
 
 L’importance de la matière et le fait que les Tables de la Classification Décimale, dont la 2• édition vient d être achevée, contiennent de nombreuses indications de principes et de méthdea, nous font réduire des développements qui pourraient paraître de proportions démesurées à cette place.
 
-![image](./pics_small/pg378_classification_biblio.png)
+![image](./media/pg378_classification_biblio.png)
 
 LA CLASSIFICATION BIBLIOGRAPHIQUE :
 
@@ -16304,7 +16304,7 @@ B.  Catalogues collectifs.
 
 Dans chaque pays un catalogue collectif notamment des ouvrages possédés par le pays. Eventuellement catalogues collectifs locaux. Le Répertoire Bibliographique Universel par auteurs combiné avec des indications sur le lieu de dépôt des ouvrages et faisant fonction de catalogue collectif des grandes Bibliothèques du monde.
 
-![image](./pics_small/pg406_repertoire_biblio_universel.png)
+![image](./media/pg406_repertoire_biblio_universel.png)
 
 Le Répertoire Bibliographique Universel au Palais Mondial. Le Mundaneum.
 
@@ -16431,7 +16431,7 @@ b)  L’œuvre d’Encyclopédie s’opère sous cinq grandes formes :
 c)  L’œuvre d’Encyclopédie peut être réalisée fragmen-taireinent et par parties, mais elle se caractérise essentiellement par son caractère d’universalité. Toute sa méthode a pour but d atteindre un jour cette universalité et de l’entrevoir idéalement des maintenant.
 d)  Comme la Bibliographie et la Bibliothèque, l’Encyclopédie sous ces cinq formes présente ces trois degrés : 1° méthode d’organisation en gnérnl utilisable par chacun, abstraction faite de toute liaison de coopération avec autrui ; 2” application génraliséc des méthodes de telle sorte que des ensembles puissent être réalisé, facilitant les travaux indivuduela; 3" irganisation formelle de cettte coopération à l’intermédiaire d’un organisme général, élaborant ou dirigeant des travaux et formant des collection» centrales, assurant le fonctionnement du réseau. Celui-ci est à rattacher au Réseau Universel de la Documentation. Le nom de Encyclopedia Universalis » lui serait réservé.
 
-![image](./pics_small/pg409_encyclo_documentaire.png)
+![image](./media/pg409_encyclo_documentaire.png)
 
 ###### 422.31 Dossiers encyclopédiques documentaires.
 
@@ -16816,7 +16816,7 @@ E.  Les Milieux de la Nature nuisibles ou utiles à l’homme. La protection con
 
 1.  Bibliographie (15.646.346 fiches), 27.000 consultations. — 2. Bibliothèque (175,000 unités). — 3. Hémé\* rothèque (80.000 spécimens). — 4. Archives encyclopédiques documentaires (10,000 dossiers. — I million de
 
-![image](./pics_small/pg418_orga_mondiale.png)
+![image](./media/pg418_orga_mondiale.png)
 
 FONCTIONS OuTRAVAiL ScieNTiFÎQUE ¿\^Conservation o, v» Science . AoCereroe
 
@@ -16886,7 +16886,7 @@ Les instruments à mettre en œuvre sont la Constitution mondiale, le Plan mondi
 
 La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour .a coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l’occas on, toutes forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine.
 
-![image](./pics_small/pg419_action_centre_mondiale.png)
+![image](./media/pg419_action_centre_mondiale.png)
 
 L’ACTION DU CENTRE MONDIAL.
 
@@ -16908,7 +16908,7 @@ Cite Mondiale offrirait de chaque ordre des fonctions plus coordonnée. Elle l�
 
 Et ainsi vraiment une édification immense s’élèverait avec le temps: \* de la fiche à la Cité mondiale ».
 
-![image](./pics_small/pg420_orga_mondiale.png)
+![image](./media/pg420_orga_mondiale.png)
 
 ORGANISATION MONDIALE.
 
@@ -17304,7 +17304,7 @@ B.U.G. Syst.-Catal. 1935
 
 ------------------------------------------------------------------------
 
-![image](./pics_small/pg373bis_mundaneum.png)
+![image](./media/pg373bis_mundaneum.png)
 
 LE PALAIS MONDIAL - LE MUNDANEUM.
 
@@ -17579,7 +17579,7 @@ Paul OTLET.
 
 1934.07.03.
 
-![image](./pics_small/pg999_fermeture.png)
+![image](./media/pg999_fermeture.png)
 
 ------------------------------------------------------------------------
 
