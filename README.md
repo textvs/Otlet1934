@@ -21,6 +21,8 @@ To contribute to this effort just get a copy of the [PDF of University of Ghent]
 
 ### About the Traité
 
+![Title page of the first edition (1934) of the _Traité_](pg_000_title.png)
+
 > The book is considered a landmark in the history of information science, with concepts predicting the rise of the World Wide Web and search engines.
 — From: [Wikipedia](https://en.wikipedia.org/wiki/Trait%C3%A9_de_Documentation)
 
