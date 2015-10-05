@@ -10,7 +10,7 @@
     + V. Organismes documentaires
     + VI. Organisation universelle
     + VII. Sciences bibliologiques
-+ 1. La Bibliologie ou Documentologie: Sciences du Livre et de la Documenatation
++ 1. La Bibliologie ou Documentologie: Sciences du Livre et de la Documentation
     + 11 Notion. Définition. Caractéristiques
         + 111 Notion
         + 112 Nécessité d’une Bibliologie
@@ -573,7 +573,7 @@
     + 32
         + 323 Histoire du livre
         + 324 Le Livre et la littérature
-+ 4. Organisation rationelle du Livre et du Docum
++ 4. Organisation rationelle du Livre et du Document
     + 41 Principes généraux et méthodes d’organisation
         + 411 Les principes généraux
             + 411.1 Les documents
