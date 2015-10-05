@@ -678,6 +678,14 @@
         + 533 La Classification, clé de voûte de la pensée et du document
         + 534 La structure des connaissances
 
+- Annexe errata
+- Tableau récapitulatif I
+- Tableau récapitulatif II
+- Table sommaire de la Classification Décimale
+- Sources: Bibliographie
+- Postface
+- Annexe: Documents
+
 - Table des illustrations, tableaux et modèles
 - Index Alphabétique
 - Table Systematique des Matières
