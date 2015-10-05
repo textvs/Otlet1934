@@ -17586,636 +17586,323 @@ Paul OTLET.
 ## INDEX ALPHABÉTIQUE
 
 Abréviation 222.22
-
 Abstraction 513.2
-
 Acquisitions 262.42
-
-Administration (Documentation). 424.4 Aération 414.7
-
-Affiche« 242.34
-
+Administration (Documentation) 424.4
+Aération 414.7
+Affiche 242.34
 Allégories 222 02
-
 Almanach 241.32
-
 Alphabet 222 14
-
 Amour du Livre 258.2
-
 Analyse et synthèse 132
-
-Analyses (résumé» 255.5
-
+Analyses (résumé) 255.5
 Annuaires 241.33
-
 Anthologie 241.84
-
 Anticipations 521
-
 Architecture 213 75
-
-Archive« 242.4
-
-— administratives 424.4
-
-anciennes 422.5
-
+Archive 242.4
+– administratives 424.4
+– anciennes 422.5
 Art 243.7
-
 Associations 183
-
 Atlas 242.28
-
-encyclopédique 422.34
-
-Auteurs … 251.2
-
-Autodtdaxie 257.94
-
+– encyclopédique 422.34
+Auteurs 251.2
+Autodidaxie 257.94
 Avenir du Livre 521
-
-Blbllo-économle 4
-
+Biblio-économie 4
 Bibliographie 255
-
 Bibliothéconomie 262.4
-
 Bibliothèques 262
-
-Blbltologie 1
-
-— pédagogique 157
-
-— pure 142
-
-— technologique 158
-
-Bibliomètrle 124
-
-Bibllon 211 A
-
+Bibliologie 1
+– pédagogique 157
+– pure 142
+– technologique 158
+Bibliomètrie 124
+Biblion 211.3
 Bibliothécaire 415.1
-
-Blbiiolhéchnie 4
-
+Bibliothechnie 4
 Bibliothèque 262
-
-Mondiale 422 24
-
+– Mondiale 422.24
 Biologie 512.5
-
 Bouquinerie 253.234
-
-Brochure« 241.11
-
-Bureaux - 424.4
-
+Brochure 241.11
+Bureaux 424.4
 But 411.41
-
 Cachets 242.63
-
 Calligraphie 222.151
-
-Caractères typographiques 222.153 - 222.43
-
+Caractères typographiques 222.153–222.43
 Caractéristiques du Livre 212
-
 Cartes 242.2
-
-— h Jouer 242.382
-
-— postales illustrées 212 381
-
-C-, D. (Classification décimales 412.38
-
-Catalogue 241.5 - 255
-
+– à jouer 242.382
+– postales illustrées 242.381
+C. D. (Classification décimale) 412.38
+Catalogue 241.5–255
 Censure 256.4
-
 Cinéma 243.3
-
 Cinémathèque 243.39
-
 Circulation du Livre 253
-
-Citations 255 8
-
+Citations 255.6
 Cité Mondiale 425.2
-
 Classeurs 412.8
-
-Classification 224.5 - 412.3
-
-décimale 412.38
-
+Classification 224.5–412.3
+– décimale 412.36
 Codification 422.35
-
 Collections 241.4
-
 Colportage 253.232
-
 Commentaires des textes 241.44
-
 Commerce extérieur 253.27
-
-Composition 251 33
-
-littéraire 224.1
-
-- — mécanique 252.7
-
+Composition 251.33
+– littéraire 224.1
+– mécanique 252.7
 Comptabilité 253.284
-
 Conservation du livre 259.1
-
-Contrat d’êdltlon 253.15
-
+Contrat d’êdition 253.15
 Convention 417.2
-
 Coopération 411.55
-
 Critique 256.1
-
-Crytog raphle … 222.183
-
+Crytographie 222.183
 Dactylographie 222.152
-
 Décoration 222.33
-
 Définitions du livre 211.5
-
 Dépôt 421.3
-
 Description du livre 255
-
 Dessin 242.32
-
 Destruction du livre 259.2
-
 Dictionnaire 241.22
-
 Diffusion du livre 254
-
 Disques 243.2
-
 Distribution 253
-
 Document 411.1
-
 Documentation 411.2
-
-administrative 422 4
-
-Document oing le 1
-
+– administrative 422.4
+Documentologie 1
 Dossiers documentaires 422.31
-
 Douane 253.273
-
 Droit 281.4
-
-— du titre 231.19
-
+– du titre 231.19
 Echange 421.3
-
-Kcrtlur» 222.1
-
-des aveugles 8t3 IM
-
-Kcri vains 251.27
-
-ICdit Ion 253.1
-
-mondiale 421.12
-
-éléments gruphiques 222
-
-Intellectuels 224
-
-— Linguistiques. Langues .. 223
-
+Ecriture 222.1
+– des aveugles 222.164
+Ecrivains 251.27
+Edition 253.1
+– mondiale 421.12
+Éléments graphiques 222
+– intellectuels 224
+– linguistiques. Langues 223
 Encouragement, au livre 164
-
 Encres 222.142
-
 Encyclopédie 241.22
-
-Enluminure . 242.13
-
-Enseignement 157 - 162
-
-par soi-méme 257.94
-
+Enluminure 242.13
+Enseignement 157–162
+– par soi-méme 257.94
 Ensembles à réaliser 42
-
-de livres 3
-
-Enveloppe du livre ¿21.3
-
+– de livres 3
+Enveloppe du livre 221.3
 Epigraphe 242.8
-
-Epoques (Livres aux diverse«» 323
-
+Epoques (Livres aux diverse) 323
 Equation du livre 212.5
-
 Espèces de livres 24
-
-Estampes 242 3
-
+Estampes 242.3
 Esthétique du livre 222–4
-
 Etalages 253.282
-
 Etudes 18
-
-EX’lihrte 242.363
-
+Ex-libris 242.363
 Exportation 253.271
-
 Exposés 224
-
 Evolution du livre 323
-
 Exposition 243.1
-
 Facture intellectuelle 251
-
-matérielle 252
-
+– matérielle 252
 Faux 259.29
-
 Fêtes 213 6
-
 Feu 259 26
-
-Feu-Iles encyclopédiques 422.33
-
+Feuilles encyclopédiques 422.33
 Fiches 412.6
-
 Fichiers 422.32
-
 Film 243.3
-
-pariant 243.35
-
+– parlant 243.35
 Finances 417.1
-
 Foires aux livres 253 235
-
 Fendions du livre 25
-
 Fonds 262.3
-
-Formats … 221.22
-
-Formes … 221.21
-
+Formats 221.22
+Formes 221.21
 Fundamenta 0
-
 Graphie en général 222.0
-
 Graphologie 222.152
-
 Gravures 242.3
-
-Histoire de la Bibliología 17
-
-des Bibliothèques 262 12
-
-du Livre 323
-
-littéraire 256.1
-
+Histoire de la Bibliologie 17
+– des Bibliothèques 262.12
+– du Livre 323
+– littéraire 256.1
 Iconographie 242.3
-
 Idéographie 222.161
-
-! I B. 424.1
-
+I.I.B. 424.1
 Illustration 222.3
-
 Illusion 513.4
-
-Institut Intem. de Documentation 424.1
-
+Institut Intern. de Documentation 424.1
 Images 222.3
-
 Imprimerie 252
-
-Imprimeurs … 252.3
-
+Imprimeurs 252.3
 Incunables 242.19
-
-Influence du livre 241 3 - 258.1
-
+Influence du livre 241.3–258.1
 Influence 241.327
-
 Inscriptions 242.61
-
 Installations 413.3
-
 Instruments intellectuels 139
-
 Inventaires 255
-
-Journaux 2U 32
-
-Justification …. 222.45
-
+Journaux 211.32
+Justification 222.45
 Langues 223
-
-Internationales 223 7
-
+– internationales 223.7
 Lecteurs 241.328
-
 Lecture 257
-
-Librairie 253.2 - 421.3
-
-—- ancienne 253.234
-
+Librairie 253.2–421.3
+– ancienne 253.234
 Linguistique 152
-
 Littérature 324
-
 Liturgie 243.6
-
 Livre proprement dit 241.14
-
-universel ,,, … 422.3
-
-Locaux 243.342 - 253 281 - 414
-
-Logique bibUologique 154
-
-Lois Idhliologiques 51
-
-Machines 413 12
-
+– universel 422.3
+Locaux 243.342–253.281, 414
+Logique bibliologique 154
+Lois bibliologiques 51
+Machines 413.12
 Manuscrit (auteur) 251.33
-
 Manuscrits 242.1
-
 Matériel 243.1–413.1
-
-didactique 243.1
-
-Mathé-Blbüoiogie … . 121.4
-
-Mathématiques 512 2
-
+– didactique 243.1
+Mathé-Bibliologie 121.4
+Mathématiques 512.2
 Matières (Livre dans les diverses) 321
-
-premières 413.4
-
+– premières 413.4
 Mécanique 512.3
-
 Médailles 212.62
-
 Messagerie 253.233
-
-Mesure des livçes 124.2
-
+Mesure des livres 124.2
 Métaphysique 512.8
-
-MUaphychle , . 512.8
-
+Métapsychie 512.8
 Méthodes 412
-
-Monnaie» 212.62
-
-Monument. Figures … 212.6
-
+Monnaies 212.62
+Monument. Figures 212.6
 Motifs décoratifs 222.33
-
-Mundaneum …. 425.2
-
-Musée 243.1 - 422.6
-
+Mundaneum 425.2
+Musée 243.1–422.6
 Musique 242.3
-
 Nomenclature 122
-
 Notation 222.21
-
-— musicale 242 55
-
-Note\# 257.7
-
+– musicale 242.55
+Notes 257.7
 Notices bibliographiques 231.18
-
-catalographiquea 255.85
-
+– catalographiques 255.85
 Notion du livre 211
-
 Objets 243.1
-
 Œuvre 251.2
-
-Œuvrts d’art 243.7
-
+Œuvres d’art 243.7
 Offices de Documentation 261
-
 Opérations 25–416
-
-Opinion publique 241–323 - 258 12
-
+Opinion publique 241.323–258.12
 Organisation mondiale 425.2
-
-de la documentation 4 Travail Intellectuel. 425.1 Organismes de la Documentation. 26
-
+– de la documentation 4
+– Travail Intellectuel 425.1
+Organismes de la Documentation 26
 Orthographe 223.6
-
-Outillage 243.1 - 413
-
-Ouvrage« d’ensemble 241.2
-
+Outillage 243.1–413
+Ouvrages d’ensemble 241.2
 Palais Mondial 425.2
-
-Paléographie ., 222.151
-
-Pfurttr 22i.i
-
-Papyrus .. 242.18
-
+Paléographie 222.151
+Papier 221.1
+Papyrus 242.18
 Parole 223.21
-
-— et l’Ecrit . … 223.2
-
+– et l’Ecrit 223.2
 Parties du livre 23
-
-Partitions musicales 242 56
-
-Pays (Livre dans tes divers) … 322
-
+Partitions musicales 242.56
+Pays (Livre dans les divers) 322
 Personnes 415
-
 Philologie bibliographique 152
-
 Phonogramme 243.2
-
-------------------------------------------------------------------------
-
 Photographie 242.37
-
 Physico-chimie 512.4
-
-Plagiat 2»1 Ht]
-
-Plan 242 27 - 411 42
-
+Plagiat 241.86
+Plan 242.27–411.42
 Poste 253.32
-
 Presse 241.32
-
 Presses 252.8
-
 Prix 253.26
-
 Problème 14–411.3
-
 Projection 242.38
-
 Propagande 258.12
-
-Psychologie … 512 6
-
-— bibliologlque . . 155
-
+Psychologie 512.6
+– bibliologique 155
 Publications 421.11
-
 Public. Lecteurs 241.328
-
 Radiophonie 243.4
-
-Radlo-téléphotographlc 243.52
-
+Radio-téléphotographie 243.52
 Recueils de textes 241.4
-
-Recherches 161 - 251.32
-
-Recherches bibliographique\* 261.3
-
+Recherches 161–251.32
+Recherches bibliographiques 261.3
 Rédaction 251.33
-
 Références 412.7
-
 Registres 412 6
-
 Réglements 417.3
-
-Régies 412.1
-
-bibliographiques 255.85
-
+Régles 412.1
+– bibliographiques 255.85
 Reliure 221.31
-
 Répartition du livre 254
-
-Répertoires 412.8 - 422.32
-
-Répertoire Blbllogr. universel … 122 1
-
+Répertoires 412.8–422.32
+Répertoire Bibliogr. universel 122.1
 Reproduction de livre 252
-
 Réseau universel 424
-
 Résumé (Analyse) 255.5
-
-— de l’ouvrage 0
-
+– de l’ouvrage 0
 Rhétorique 224.1
-
 Rognage des livres 221.33
-
 Romans 258.14
-
 Sceaux 242.63
-
 Schémas 222.32
-
-Science 154 - 411 44
-
+Science 154–411.44
 Sculpture 243.77
-
 Services de documentation 261
-
-Signalisation 22.03 223 92
-
+Signalisation 22.03–223.92
 Social 513.5
-
 Sociologie 512.7
-
-— bibliologlque 153
-
-Sources tBlhhologleY 165
-
+– bibliologique 153
+Sources (Bibliologie) 165
 Spectacles 243.6
-
 Standardisation 411.54
-
 Statistique 124.3
-
-Sténographie 222 162
-
+Sténographie 222.162
 Structure du livre 23
-
-Style …. 224.2
-
+Style 224.2
 Substituts du livre 213
-
 Supports (substances) 221.18
-
 Symboles 222.02
-
 Synthèse 132
-
-bibliologlque 5
-
+– bibliologique 5
 Systèmes bibiologiques 133
-
 Taxonomie 412.38
-
 Télégraphie 253.33
-
 Téléphones 253.34
-
-Télé photographie 243.52
-
+Téléphotographie 243.52
 Télévision 243.5
-
 Terminologie, biologie 122
-
-scientifique 223 8
-
-ThéAtre 243.6
-
+– scientifique 223 8
+Théatre 243.6
 Théologie 512.8
-
 Titre 2311
-
-Traductions 223.91 - 241 83
-
+Traductions 223.91–241.83
 Traité 241.21
-
-Transports 253 3
-
-Travail intellectuel … 251.1 - 425
-
-T.  S F 243.4
-
-Universalité 4 11. 52
-
+Transports 253.3
+Travail intellectuel 251.1–425
+T.S.F. 243.4
+Universalité 411.52
 Utilisation du livre 257
-
 Ventes publiques 253.236
-
 Vie 158
-
 Vocabulaire 223.13
-
-Vol 258 29
+Vol 258.29
 
 ------------------------------------------------------------------------
 
